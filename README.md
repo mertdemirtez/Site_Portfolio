@@ -21,7 +21,7 @@
 ![Ekran görüntüsü 2023-03-26 192457](https://user-images.githubusercontent.com/101717064/227789793-f9ef45a1-f764-4217-bb9d-0f7e56431e4d.png)
 
 # 🅲🅾🅽🆃🅰🅲🆃 🅵🅾🆁 🅼🅴
--My personal website is: www.mertdemir.rf.gd
+-My personal website is: www.mertdemirtez.com
 - 
 -My LinkedIn profile is: https://www.linkedin.com/in/mertdemirtez/
 -
