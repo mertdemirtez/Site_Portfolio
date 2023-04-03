@@ -18,7 +18,8 @@
 
 ![Ekran görüntüsü 2023-03-26 192433](https://user-images.githubusercontent.com/101717064/227789790-89b93c83-c1e5-4474-87a1-dcaafed4020f.png)
 
-![Ekran görüntüsü 2023-03-26 192457](https://user-images.githubusercontent.com/101717064/227789793-f9ef45a1-f764-4217-bb9d-0f7e56431e4d.png)
+![Ekran görüntüsü 2023-04-03 061405](https://user-images.githubusercontent.com/101717064/229404167-ae73b223-cfce-4a8e-908e-815426f8dcdb.png)
+
 
 # 🅲🅾🅽🆃🅰🅲🆃 🅵🅾🆁 🅼🅴
 -My personal website is: www.mertdemirtez.com
