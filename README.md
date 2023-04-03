@@ -10,7 +10,7 @@
 
 ![Ekran görüntüsü 2023-03-26 192236](https://user-images.githubusercontent.com/101717064/227789779-36f8ad92-83c0-42d8-b728-13296a7850d1.png)
 
-![Ekran görüntüsü 2023-03-26 192328](https://user-images.githubusercontent.com/101717064/227789780-11024ac9-790f-4ad0-8445-5157196f15e3.png)
+![Ekran görüntüsü 2023-04-03 062758](https://user-images.githubusercontent.com/101717064/229404818-cc5b67a5-567d-47e1-9844-42c3ab09ae61.png)
 
 ![Ekran görüntüsü 2023-03-26 192342](https://user-images.githubusercontent.com/101717064/227789783-4980fef7-f4bc-4069-9152-918cb4887dbd.png)
 
