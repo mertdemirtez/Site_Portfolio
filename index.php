@@ -300,7 +300,7 @@
      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
      <div class="portfolio-wrap">
      
-     <img style=" height:285px"src="Kuzikeri/resimler/blogs/<?php echo $blogcek['post_resim'] ?>" alt="">
+     <img style=" height:285px"src="Admin/resimler/blogs/<?php echo $blogcek['post_resim'] ?>" alt="">
      <div class="portfolio-info">
          
         
